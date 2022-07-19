@@ -10,4 +10,3 @@ Division(/)
 Modulus(%)
 Square Root(√)
 **************************
-
