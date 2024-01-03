@@ -1,16 +1,47 @@
 # Calculator-
-Simple Calculator using HTML,CSS  and JAVASCRIPT
 
-I have this calculator using html,css and javascript.Basically,i have used html and css for front-end purpose and javascript has been used as back-end.
-#Features:
-Addition(+)
-Subtraction(-)
-Multiplication(*)
-Division(/)
-Modulus(%)
-Square Root(√)
-**************************
 
+A straightforward web calculator built with HTML, CSS, and JavaScript for basic arithmetic operations.
+
+## Overview
+
+This simple calculator project provides a user-friendly interface for performing addition, subtraction, multiplication, and division. It is designed for educational purposes and as a foundation for understanding front-end web development.
+
+## Features
+
+- **Basic Arithmetic Operations:** Addition, subtraction, multiplication, and division.
+- **Clear and Reset:** Easily clear the input and start fresh with the reset button.
+- **Responsive Design:** Ensures a seamless user experience on various devices.
+
+## Usage
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/your-username/Calculator.git
+    ```
+
+2. Open the `index.html` file in your preferred web browser.
+
+3. Use the calculator for performing basic arithmetic operations.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## File Structure
+
+```plaintext
+simple-calculator/
+|-- index.html
+|-- style.css
+|-- script.js
+|-- README.md
+
+
+```
 View of calculator
 ![view1](https://user-images.githubusercontent.com/98253646/179923229-2b0439f4-ec0f-4c9f-b67e-53805cd6949e.png)
 
