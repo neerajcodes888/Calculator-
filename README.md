@@ -51,3 +51,10 @@ View of Input
 View of Output
 ![Output_view](https://user-images.githubusercontent.com/98253646/179923176-d1f985f9-6bad-4b49-a8f9-19e528b4830d.png)
 
+
+
+## Contributing
+Contributions are welcome! Feel free to open issues and pull requests to enhance the calculator's functionality or fix any bugs.
+
+## License
+This project is licensed under the MIT License.
