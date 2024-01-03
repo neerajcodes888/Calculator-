@@ -37,7 +37,7 @@ This simple calculator project provides a user-friendly interface for performing
 simple-calculator/
 |-- index.html
 |-- style.css
-|-- script.js
+|-- logic.js
 |-- README.md
 
 
